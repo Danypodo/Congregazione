@@ -1,0 +1,12 @@
+[
+    {
+        "nome": "Mario",
+        "cognome": "Rossi",
+        "gruppoServizio": "DANIELE PODO"
+    },
+    {
+        "nome": "Luigi",
+        "cognome": "Verdi",
+        "gruppoServizio": "ROBERTO SOLAZZO"
+    }
+]

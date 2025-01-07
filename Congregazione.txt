@@ -1,1 +1,19 @@
-
+[
+    {
+        "Nome": "Mario",
+        "Cognome": "Rossi",
+        "Gruppo di Servizio": "DANIELE PODO",
+	"Indirizzo": "Via Montello 7 Monteroni di Lecce",
+	"Numero di Telefono": "3286748644",
+	"Data di Nascita": "06/11/1978",
+	"Data del Battesimo": "12/08/1989",
+	"Assegnazioni": "Preghiera adunanza",
+	"Ruolo": "Anziano",
+	"Incarichi": "Testimonianza pubblica",
+	"Stato di Salute": "Ottimo",
+	"Descrivi le Condizioni di Salute": "Mal di schiena",
+	"DAT Compilata e Autenticata": "Sì",
+	"Fiduciari": "Antonio Podo, Fara Podo",
+	"Bisogni Spirituali": "KHC"
+    }
+]
